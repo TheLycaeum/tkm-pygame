@@ -1,2 +1,12 @@
 Simple shooter for game built during a PyGame worshop
 
+Homework:
+
+Make our fighter able to attack the enemy
+1. Add a button for shooting (inside the pygame.event.get_event loop)
+2. Create a new sprite for FighterLaser
+3. Create a new sprite group for FighterFire
+4. Check for collisions between enemy ship and FighterFire
+5. If there are collisions, deduct enemy energy and kill enemy if energy reaches 0
+
+
